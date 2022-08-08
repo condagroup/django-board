@@ -8,19 +8,6 @@ Code samples from the Django tutorial series.
 ![Django Boards Screenshot](https://d26dzxoao6i3hh.cloudfront.net/items/0j1J2s300f1b2y1Y3p3k/django-boards.png?v=3ec9d7f5)
 
 
-## Table of Contents
-
-* [Part 1 - Getting Started](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
-* [Part 2 - Fundamentals](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Part 3 - Advanced Concepts](https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html)
-* [Part 4 - Authentication](https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html)
-* [Part 5 - ORM](https://simpleisbetterthancomplex.com/series/2017/10/02/a-complete-beginners-guide-to-django-part-5.html)
-* [Part 6 - Class-Based Views](https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html)
-* [Part 7 - Deployment](https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html)
-
-For the complete tutorial series index [click here](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/).
-
-
 ## Running the Project Locally
 
 First, clone the repository to your local machine:
