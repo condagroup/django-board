@@ -5,7 +5,8 @@
 
 Code samples from the Django tutorial series.
 
-![Django Boards Screenshot](https://d26dzxoao6i3hh.cloudfront.net/items/0j1J2s300f1b2y1Y3p3k/django-boards.png?v=3ec9d7f5)
+![Django Boards Screenshot]![68747470733a2f2f73696d706c6569736265747465727468616e636f6d706c65782e636f6d2f6d656469612f7365726965732f626567696e6e6572732d67756964652f312e31312f706172742d342f6d61696e6d656e752e706e67](https://user-images.githubusercontent.com/110183225/183378291-9309a23e-e350-4c7a-b9bb-38c6926699a1.png)
+
 
 
 ## Running the Project Locally
